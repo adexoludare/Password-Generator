@@ -1,0 +1,38 @@
+.outerContainer{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 25%;
+    background-color: gray;
+    border-radius: 15px;
+    color: white;
+}
+.innerContainer{
+    display:flex;
+    justify-content: center;
+}
+.ux{
+    display: flex;
+    justify-content: center;
+    
+}
+.inputBox{
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    width: 75%;
+    color: rgb(70, 60, 3);
+}
+button{
+    background-color: blue;
+    border-radius: 8px;
+    border: none;
+}
+.otherInput{
+    color: gold
+}
+h2{
+    margin-left: 25%;
+}
+.checkbox{
+    margin-left: 1.5em;
+}
