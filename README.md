@@ -1,3 +1,12 @@
+# Password Generator
+This app generate a secure password you can use.
+it was written in React a javascript libraries for front end development.
+the following react hook was used in the project
+## used React Hooks
+- useState
+- useCallback
+- useEffect
+- useRef
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
